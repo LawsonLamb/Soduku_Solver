@@ -1,0 +1,7 @@
+c:\users\ninja\documents\visual studio 2015\Projects\Soduku_Solver\Soduku_Solver\bin\Debug\Soduku_Solver.exe.config
+c:\users\ninja\documents\visual studio 2015\Projects\Soduku_Solver\Soduku_Solver\bin\Debug\Soduku_Solver.exe
+c:\users\ninja\documents\visual studio 2015\Projects\Soduku_Solver\Soduku_Solver\bin\Debug\Soduku_Solver.pdb
+c:\users\ninja\documents\visual studio 2015\Projects\Soduku_Solver\Soduku_Solver\obj\Debug\Soduku_Solver.csprojResolveAssemblyReference.cache
+c:\users\ninja\documents\visual studio 2015\Projects\Soduku_Solver\Soduku_Solver\obj\Debug\Soduku_Solver.exe
+c:\users\ninja\documents\visual studio 2015\Projects\Soduku_Solver\Soduku_Solver\obj\Debug\Soduku_Solver.pdb
+c:\users\ninja\documents\visual studio 2015\Projects\Soduku_Solver\Soduku_Solver\bin\Debug\load_testBoard.txt
