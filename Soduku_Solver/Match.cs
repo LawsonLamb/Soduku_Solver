@@ -8,8 +8,9 @@ namespace Soduku_Solver
 {
     class Match
     {
-        public Square cell;
+        public Square square;
         public List<int> matches;
+        
 
 
     }

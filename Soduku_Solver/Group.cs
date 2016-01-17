@@ -8,5 +8,8 @@ namespace Soduku_Solver
 {
     class Group
     {
+        public int row;
+        public int col;
+        public int region;
     }
 }
